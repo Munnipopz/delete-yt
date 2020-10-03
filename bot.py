@@ -6,7 +6,7 @@ import subprocess
 
 from telegram import ReplyKeyboardMarkup
 from telegram.ext import CommandHandler, RegexHandler, MessageHandler, Filters
-from telegram.ext import Update
+from telegram.ext import Updater
 
 from sample_config import Config
 
