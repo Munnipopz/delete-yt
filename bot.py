@@ -10,8 +10,8 @@ from telegram.ext import Update
 
 from sample_config import Config
 
-allowed_user = Config.984441749
-telegram_token = Config.1233265878:AAHJDgJgdskG-tbctKlElKZfXmEWdsOiuOg
+allowed_user = Config.OWNER_ID
+telegram_token = Config.TG_BOT_TOKEN
 youtube_url = None
 formats = None
 
